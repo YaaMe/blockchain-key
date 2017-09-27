@@ -1,5 +1,7 @@
 # blockchain-key
 
+easy script to generate private_key & address
+
 ### ethereum
 
 > npm install
